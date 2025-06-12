@@ -31,3 +31,7 @@ F:\Programming\File programming\Website Dev Project\ASPNETCore\ToDoList\ToDoList
 F:\Programming\File programming\Website Dev Project\ASPNETCore\ToDoList\ToDoList\obj\Debug\net9.0\ToDoList.pdb
 F:\Programming\File programming\Website Dev Project\ASPNETCore\ToDoList\ToDoList\obj\Debug\net9.0\ToDoList.genruntimeconfig.cache
 F:\Programming\File programming\Website Dev Project\ASPNETCore\ToDoList\ToDoList\obj\Debug\net9.0\ref\ToDoList.dll
+F:\Programming\File programming\Website Dev Project\ASPNETCore\ToDoList\ToDoList\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Programming\File programming\Website Dev Project\ASPNETCore\ToDoList\ToDoList\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Programming\File programming\Website Dev Project\ASPNETCore\ToDoList\ToDoList\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Programming\File programming\Website Dev Project\ASPNETCore\ToDoList\ToDoList\obj\Debug\net9.0\ToDoList.sourcelink.json
