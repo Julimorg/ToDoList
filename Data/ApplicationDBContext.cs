@@ -14,6 +14,8 @@ namespace ToDoList.Data
         }
         
        public DbSet<User> Users { get; set; }
+       
+       public DbSet<DailyNote> DailyNotes { get; set; }
         
        public DbSet<UserTask> UserTasks { get; set; }
     }
